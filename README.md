@@ -6,3 +6,4 @@ line 5 has beenn added on web
 line 6 added on web first
 line 6 b added locally after a line 6 has been added and committed on web, become line 7 after change locally
 
+modif done when test new branch 2 was selected
